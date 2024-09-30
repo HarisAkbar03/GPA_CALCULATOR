@@ -123,6 +123,8 @@ fun GPAContent() {
 
         Spacer(modifier = Modifier.height(16.dp))
 
+
+
         // Button to compute or reset the GPA
         Button(
             onClick = {
